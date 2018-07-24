@@ -1,3 +1,6 @@
+#This code is a lightweight test using similar class objects as with Febrl but made very simple
+#https://sourceforge.net/projects/febrl/
+
 import csv
 import itertools
 import logging
@@ -115,7 +118,6 @@ class FieldComparator(object):
 
 
 # if __name__ == "__main__":
-dataset = r'C:\Work\Data Sources\Schools\Directory-School-Current.csv'
 # for (rowid, row) in dataset:
 #     print(row)
 
